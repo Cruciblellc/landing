@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Crucible.wtf</title>
+    <link href="https://crucible.wtf/feed.xml" rel="self" />
+    <link href="https://crucible.wtf" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Merlinlcb</name>
+    </author>
+    <id>https://crucible.wtf</id>
+
+</feed>
