@@ -438,7 +438,7 @@ window.addEventListener('scroll', function (e) {
      * Run menu scripts 
      */
     init();
-})(window.publiiThemeMenuConfig);
+})(window.CrucibleThemeMenuConfig);
 
 // Load comments
 var comments = document.getElementById("js-comments");  
