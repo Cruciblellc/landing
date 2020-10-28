@@ -73,6 +73,7 @@ body{
 }
 .timeline-article-bottom .content-date{
   top: 59%;
+  text-align: center;
 }
 .timeline-article-bottom .content-box{
   top: 0%;
