@@ -8,7 +8,7 @@ pages:
     - cd .public
     - ls
     - cd ..
-    - mv * public
+    - mv -R .public public
   artifacts:
     paths:
       - public
